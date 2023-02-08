@@ -1,7 +1,7 @@
 // 两数之和 https://leetcode.cn/problems/two-sum/
 
 /**
- * 简单版，变量两遍
+ * 简单版，遍历两遍
  * @param nums
  * @param target
  */
