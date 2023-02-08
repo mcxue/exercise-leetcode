@@ -1,4 +1,4 @@
-// 两数之和 https://leetcode.cn/problems/two-sum/
+// 1. 两数之和 https://leetcode.cn/problems/two-sum/
 
 /**
  * 简单版，遍历两遍
@@ -39,6 +39,9 @@ function twoSum2(nums: number[], target: number): number[] {
   return [-1, -1];
 }
 
+/**
+ * 预期结果 [0,1] 或 [1,0]
+ */
 // const nums = [2, 7, 11, 15];
 // const target = 9;
 // console.log(twoSum2(nums, target));

@@ -1,4 +1,4 @@
-// 两数相加 https://leetcode.cn/problems/add-two-numbers/
+// 2. 两数相加 https://leetcode.cn/problems/add-two-numbers/
 
 class ListNode {
   val: number;
@@ -44,6 +44,9 @@ function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | nul
   return head;
 }
 
+/**
+ * 预期结果 7 0 8
+ */
 // const l1 = new ListNode(2);
 // l1.next = new ListNode(4);
 // l1.next.next = new ListNode(3);
