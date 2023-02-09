@@ -28,8 +28,6 @@ function twoSum(nums: number[], target: number): number[] {
 function twoSum2(nums: number[], target: number): number[] {
   const map = new Map();
   for (let i = 0; i <= nums.length - 1; i++) {
-    let s = target - nums[i];
-    console.log(s);
     if (Number.isInteger(map.get(target - nums[i]))) {
       return [i, map.get(target - nums[i])];
     } else {
