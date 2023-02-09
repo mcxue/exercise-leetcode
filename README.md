@@ -7,7 +7,7 @@ Solutions 1-100
 4. [寻找两个正序数组的中位数](https://github.com/mcxue/exercise-leetcode/blob/master/solutions-1-100/median-of-two-sorted-arrays.ts)
 5. [最长回文子串](https://github.com/mcxue/exercise-leetcode/blob/master/solutions-1-100/longest-palindromic-substring.ts)
 6. [N 字形变换](https://github.com/mcxue/exercise-leetcode/blob/master/solutions-1-100/zigzag-conversion.ts)
-7. 
+7. [整数反转](https://github.com/mcxue/exercise-leetcode/blob/master/solutions-1-100/reverse-integer.ts)
 8. 
 9. 
 10. 
