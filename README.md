@@ -8,7 +8,7 @@ Solutions 1-100
 5. [最长回文子串](https://github.com/mcxue/exercise-leetcode/blob/master/solutions-1-100/longest-palindromic-substring.ts)
 6. [N 字形变换](https://github.com/mcxue/exercise-leetcode/blob/master/solutions-1-100/zigzag-conversion.ts)
 7. [整数反转](https://github.com/mcxue/exercise-leetcode/blob/master/solutions-1-100/reverse-integer.ts)
-8. 
+8. [字符串转换整数](https://github.com/mcxue/exercise-leetcode/blob/master/solutions-1-100/string-to-integer-atoi.ts)
 9. 
 10. 
 11. 
